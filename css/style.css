@@ -1,0 +1,79 @@
+*
+{
+    margin-top: 5px;
+	text-decoration: none;
+}
+
+#main 
+{
+    display: block;
+    box-sizing: content-box;
+}
+
+#show_form
+{
+    display: block;
+    justify-content: space-between;
+    float: center;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: #373a3c;
+}
+
+.error_msg
+{
+    color: #ff0000;
+    text-align: center;
+}
+
+.result_decode
+{
+    margin-top: 10px;
+    display: block;
+    justify-content: space-between;
+    float: center;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: #373a3c;
+}
+
+.result_encode
+{
+    margin-top: 10px;
+    display: block;
+    justify-content: space-between;
+    float: center;
+    text-align: center;
+    box-sizing: initial;
+    box-shadow: #373a3c;
+    font-size: 14.5px;
+}
+
+.decode_form
+{
+    margin-top: 10px;
+    display: block;
+    justify-content: space-between;
+    float: center;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: #373a3c;
+    text-decoration: solid;
+    font-size: 14.5px;
+}
+
+fieldset 
+{
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 2px;
+}
+
+
+
